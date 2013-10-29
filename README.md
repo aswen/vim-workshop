@@ -34,7 +34,7 @@
       4. [Visual mode + operators](/README.md/#visual-mode--operators)
     20. [Exercise 5: Use visual mode to create a CSV file](/README.md/#exercise-5-use-visual-mode-to-create-a-csv-file)
     21. [Search/Replace](/README.md/#searchreplace)
-    22. [Exercise 6: Use Search/Replace to create a CSV file](/README.md/#Exercise-6-use-searchreplace-to-create-a-csv-file)
+    22. [Exercise 6: Use Search/Replace to create a CSV file](/README.md/#exercise-6-use-searchreplace-to-create-a-csv-file)
     23. [Text objects](/README.md/#text-objects)
     24. [More text objects](/README.md/#more-text-objects)
     25. [Operator + text objects](/README.md/#operator--text-objects)

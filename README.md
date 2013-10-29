@@ -9,15 +9,15 @@
   2. [License](/README.md/#License)
 2. [This Repo](/README.md/#This-Repo)
   1. [Presentation](/README.md/#Presentation)
-    01. [Preparation](/README.md/#Preparation)
-    02. [Why Vim?](/README.md/#Why-Vim?)
-    03. [Learning is difficult](/README.md/#Learning-is-difficult)
-    04. [History](/README.md/#History)
-    05. [Modes](/README.md/#Modes)
-    06. [Undo/Redo/Repeat](/README.md/#Undo/Redo/Repeat)
-    07. [Motions](/README.md/#Motions)
-    08. [Exercise 1](/README.md/#Exercise-1:-Getting-familiar-with-some-commands-and-the-gui)
-    09. [More motions](/README.md/#More-motions)
+    1. [Preparation](/README.md/#Preparation)
+    2. [Why Vim?](/README.md/#Why-Vim?)
+    3. [Learning is difficult](/README.md/#Learning-is-difficult)
+    4. [History](/README.md/#History)
+    5. [Modes](/README.md/#Modes)
+    6. [Undo/Redo/Repeat](/README.md/#Undo/Redo/Repeat)
+    7. [Motions](/README.md/#Motions)
+    8. [Exercise 1](/README.md/#Exercise-1:-Getting-familiar-with-some-commands-and-the-gui)
+    9. [More motions](/README.md/#More-motions)
     10. [Operators](/README.md/#Operators)
     11. [Operator + Motion 1](/README.md/#Operator-+-Motion-1)
     12. [Exercise 2](/README.md/#Exercise-2:-Get-used-to-motions-and-operators)
@@ -28,10 +28,10 @@
     17. [Operator + search](/README.md/#Operator-+-search)
     18. [Exercise 4](/README.md/#Exercise-4:-Slightly-more-efficient-editing)
     19. [Cut/Copy/Paste & Visual mode](/README.md/#Cut/Copy/Paste-&-Visual mode)
-      01. [Cut/Copy/Paste](/README.md/#Cut/Copy/Paste)
-      02. [Visual mode](/README.md/#Visual-mode)
-      03. [Visual mode + motions](/README.md/#Visual-mode-+-motions)
-      04. [Visual mode + operators](/README.md/#Visual-mode-+-operators)
+      1. [Cut/Copy/Paste](/README.md/#Cut/Copy/Paste)
+      2. [Visual mode](/README.md/#Visual-mode)
+      3. [Visual mode + motions](/README.md/#Visual-mode-+-motions)
+      4. [Visual mode + operators](/README.md/#Visual-mode-+-operators)
     20. [Exercise 5](/README.md/#Exercise-5:-use-visual-mode-to-create-a-CSV-file)
     21. [Search/Replace](/README.md/#Search/Replace)
     22. [Exercise 6](/README.md/#Exercise-6:-Use-Search/Replace-to-create-a-CSV-file)
@@ -39,10 +39,10 @@
     24. [More text objects](/README.md/#More-text-objects)
     25. [Operator + text objects](/README.md/#Operator-+-text-objects)
     26. [If there's time left...](/README.md/#If-there's-time-left...)
-      01. [vimrc](/README.md/#vimrc)
-      02. [buffers](/README.md/#buffers)
-      03. [windows](/README.md/#windows)
-      04. [plugins](/README.md/#plugins)
+      1. [vimrc](/README.md/#vimrc)
+      2. [buffers](/README.md/#buffers)
+      3. [windows](/README.md/#windows)
+      4. [plugins](/README.md/#plugins)
     27. [Vim in other software](/README.md/#Vim-in-other-software)
     28. [Credits and links](/README.md/#Credits-and-links)
   2. [files](/README.md/#files)
@@ -65,6 +65,41 @@ We (that is Alexander Swen and [Joël Stemmer][Joel]) created this workshop to h
 [nedap]: http://www.nedap.com/ "Nedap"
 [nedap_vim_workshop]: https://github.com/nedap/vim-workshop "Nedap's Vim workshop repo"
 
+## Intro
+
+### Audience
+
+### License
+
+## This Repo
+
+### Presentation
+
+#### Preparation
+#### Why Vim?
+#### Learning is difficult
+#### History
+#### Modes
+#### Undo/Redo/Repeat
+#### Motions
+#### Exercise 1: Getting familiar with some commands and the gui
+#### More motions
+#### Operators
+#### Operator + Motion 1
+#### Exercise 2: Get used to motions and operators
+#### Even more motions
+#### Operator + Motion 2
+#### Exercise 3: Not so efficient editing
+#### Searching
+#### Operator + search
+#### Exercise 4: Slightly more efficient editing
+#### Cut/Copy/Paste & Visual mode
+##### Cut/Copy/Paste
+##### Visual mode
+##### Visual mode + motions
+##### Visual mode + operators
+#### Exercise 5: use visual mode to create a CSV file
+#### Search/Replace
 #### Exercise 6: Use Search/Replace to create a CSV file
 
 Let the participants use search/replace to change the file [6-digits.txt](/README.md/#6-digits.txt) to a CSV file (they may choose their own separator). The following three commands (after removing lines 1,3 and last) should be sufficient:

@@ -46,13 +46,13 @@
     27. [Vim in other software](/README.md/#vim-in-other-software)
     28. [Credits and links](/README.md/#credits-and-links)
   2. [files](/README.md/#files)
-    1. [1-lorem.txt](/README.md/#1-lorem.txt)
-    2. [2-lorem-wrapped.txt](/README.md/#2-lorem-wrapped.txt)
-    3. [3-sinatra.rb](/README.md/#3-sinatra.rb)
-    4. [4-boilerplate.html](/README.md/#4-boilerplate.html)
-    5. [5-string_calculator_spec.rb](/README.md/#5-string_calculator_spec.rb)
-    6. [6-digits.txt](/README.md/#6-digits.txt)
-    7. [7-markdown.txt](/README.md/#7-markdown.txt)
+    1. [1-lorem.txt](/README.md/#1-loremtxt)
+    2. [2-lorem-wrapped.txt](/README.md/#2-lorem-wrappedtxt)
+    3. [3-sinatra.rb](/README.md/#3-sinatrarb)
+    4. [4-boilerplate.html](/README.md/#4-boilerplatehtml)
+    5. [5-string_calculator_spec.rb](/README.md/#5-string_calculator_specrb)
+    6. [6-digits.txt](/README.md/#6-digitstxt)
+    7. [7-markdown.txt](/README.md/#7-markdowntxt)
   3. [startvim](/README.md/#startvim)
   4. [vim-config](/README.md/#vim-config)
 3. [Request for feedback](/README.md/#request-for-feedback)
@@ -125,7 +125,7 @@ We (that is Alexander Swen and [Joël Stemmer][Joel]) created this workshop to h
 
 #### Exercise 6: Use Search/Replace to create a CSV file
 
-Let the participants use search/replace to change the file [6-digits.txt](/README.md/#6-digits.txt) to a CSV file (they may choose their own separator). The following three commands (after removing lines 1,3 and last) should be sufficient:
+Let the participants use search/replace to change the file [6-digits.txt](/README.md/#6-digitstxt) to a CSV file (they may choose their own separator). The following three commands (after removing lines 1,3 and last) should be sufficient:
 ``` vim
 :%s/^| //
 :%s/ | /,/
@@ -142,7 +142,7 @@ Shows some more text objects.
 
 #### Operator + text objects
 
-Explains the power of combining operators and text objects. Some examples are shown on the slides and one can choose to add an exercise: use [3-sinatra.rb](/README.md/#3-sinatra.rb) for example to let users change stuff between quotes or [4-boilerplate.html](/README.md/#4-boilerplate.html) to let them try "cit".
+Explains the power of combining operators and text objects. Some examples are shown on the slides and one can choose to add an exercise: use [3-sinatra.rb](/README.md/#3-sinatrarb) for example to let users change stuff between quotes or [4-boilerplate.html](/README.md/#4-boilerplatehtml) to let them try "cit".
 
 #### If there's time left
 
@@ -178,7 +178,7 @@ The repo contains a bunch of examplefiles to let the participants play with duri
 
 #### 1-lorem.txt
 
-Used in [Exercise 2](/README.md/#Exercise 2: Get used to motions and operators) to let participants change random text.
+Used in [Exercise 2](/README.md/#exercise-2-get-used-to-motions-and-operators) to let participants change random text.
 This file was found on [nl.lipsum.com][lipsum].
 
 [lipsum]: http://nl.lipsum.com/intro "Lipsum.com"
@@ -199,7 +199,7 @@ This file was found on [Sinatrarb.com][sinatra_origin].
 
 #### 4-boilerplate.html
 
-Used in [Exercise 3](/README.md/#Exercise 3: Not so efficient editing) and [Exercise 4](/README.md/#Exercise 4: Slightly more efficient editing) to let participants experience how they can work more efficient using copy/paste.
+Used in [Exercise 3](/README.md/#exercise-3-not-so-efficient-editing) and [Exercise 4](/README.md/#exercise-4-slightly-more-efficient-editing) to let participants experience how they can work more efficient using copy/paste.
 This file was found on [Imakewebthings' deck.js Github repo][boiler_origin].
 
 [boiler_origin]: https://github.com/imakewebthings/deck.js/blob/master/boilerplate.html "Imakewebthings deck.js"
@@ -213,11 +213,11 @@ This file was found on [Katacasts' string_calculator Github repo][string_calc_or
 
 #### 6-digits.txt
 
-File used in [Exercise 5](/README.md/#Exercise 5: use visual mode to create a CSV file) and [Exercise 6](/README.md/#Exercise 6: Use Search/Replace to create a CSV file) to demonstrate how easy you can change a lot of lines at ones using visual mode and how to be even more efficient using [Search/Replace](/README.md/#Search/Replace).
+File used in [Exercise 5](/README.md/#exercise-5-use-visual-mode-to-create-a-csv-file) and [Exercise 6](/README.md/#exercise-6-use-searchreplace-to-create-a-csv-file) to demonstrate how easy you can change a lot of lines at ones using visual mode and how to be even more efficient using [Search/Replace](/README.md/#searchreplace).
 
 #### 7-markdown.txt
 
-File that's used in [Why Vim?](/README.md/#Why Vim?) demo.
+File that's used in [Why Vim?](/README.md/#why-vim) demo.
 
 ### startvim
 

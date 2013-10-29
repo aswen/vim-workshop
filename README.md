@@ -10,7 +10,7 @@
 2. [This Repo](/README.md/#This-Repo)
   1. [Presentation](/README.md/#Presentation)
     1. [Preparation](/README.md/#Preparation)
-    2. [Why Vim?](/README.md/#Why-Vim)
+    2. [Why Vim](/README.md/#Why-Vim)
     3. [Learning is difficult](/README.md/#Learning-is-difficult)
     4. [History](/README.md/#History)
     5. [Modes](/README.md/#Modes)

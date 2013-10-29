@@ -16,7 +16,7 @@
     5. [Modes](/README.md/#modes)
     6. [Undo/Redo/Repeat](/README.md/#undo/redo/repeat)
     7. [Motions](/README.md/#motions)
-    8. [Exercise 1](/README.md/#exercise-1:-getting-familiar-with-some-commands-and-the-gui)
+    8. [Exercise 1](/README.md/#exercise-1\:-getting-familiar-with-some-commands-and-the-gui)
     9. [More motions](/README.md/#more-motions)
     10. [Operators](/README.md/#operators)
     11. [Operator + Motion 1](/README.md/#operator-+-motion-1)
@@ -233,4 +233,4 @@ We created a config that has some usefull default settings. This is to make sure
 
 I would highly appreciate feedback on this workshop. Especially if you attended one of my workshops I like to improve both this workshop and my training skillz. You can contact me via [Mail][mailme].
 
-[mailme]: mailto://vim@swen.nu "my mailaddress"
+[mailme]: mailto:vim@swen.nu "my mailaddress"

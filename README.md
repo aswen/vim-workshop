@@ -65,8 +65,6 @@ We (that is Alexander Swen and [Joël Stemmer][Joel]) created this workshop to h
 [nedap]: http://www.nedap.com/ "Nedap"
 [nedap_vim_workshop]: https://github.com/nedap/vim-workshop "Nedap's Vim workshop repo"
 
-## Intro
-
 ### Audience
 
 ### License

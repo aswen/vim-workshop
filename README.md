@@ -74,30 +74,55 @@ We (that is Alexander Swen and [Joël Stemmer][Joel]) created this workshop to h
 ### Presentation
 
 #### Preparation
+
 #### Why Vim?
+
 #### Learning is difficult
+
 #### History
+
 #### Modes
+
 #### Undo/Redo/Repeat
+
 #### Motions
+
 #### Exercise 1: Getting familiar with some commands and the gui
+
 #### More motions
+
 #### Operators
+
 #### Operator + Motion 1
+
 #### Exercise 2: Get used to motions and operators
+
 #### Even more motions
+
 #### Operator + Motion 2
+
 #### Exercise 3: Not so efficient editing
+
 #### Searching
+
 #### Operator + search
+
 #### Exercise 4: Slightly more efficient editing
+
 #### Cut/Copy/Paste & Visual mode
+
 ##### Cut/Copy/Paste
+
 ##### Visual mode
+
 ##### Visual mode + motions
+
 ##### Visual mode + operators
+
 #### Exercise 5: use visual mode to create a CSV file
+
 #### Search/Replace
+
 #### Exercise 6: Use Search/Replace to create a CSV file
 
 Let the participants use search/replace to change the file [6-digits.txt](/README.md/#6-digits.txt) to a CSV file (they may choose their own separator). The following three commands (after removing lines 1,3 and last) should be sufficient:

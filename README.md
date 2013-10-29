@@ -4,13 +4,13 @@
 
 * * *
 
-1. [Intro](/README.md/#Intro)
-  1. [Audience](/README.md/#Audience)
-  2. [License](/README.md/#License)
-2. [This Repo](/README.md/#This-Repo)
-  1. [Presentation](/README.md/#Presentation)
-    1. [Preparation](/README.md/#Preparation)
-    2. [Why Vim](/README.md/#Why-Vim)
+1. [Intro](/README.md/#intro)
+  1. [Audience](/README.md/#audience)
+  2. [License](/README.md/#license)
+2. [This Repo](/README.md/#this-Repo)
+  1. [Presentation](/README.md/#presentation)
+    1. [Preparation](/README.md/#preparation)
+    2. [Why Vim](/README.md/#why-vim)
     3. [Learning is difficult](/README.md/#Learning-is-difficult)
     4. [History](/README.md/#History)
     5. [Modes](/README.md/#Modes)

@@ -87,7 +87,7 @@ We (that is Alexander Swen and [Joël Stemmer][Joel]) created this workshop to h
 
 #### Motions
 
-#### Exercise 1: Getting familiar with some commands and the gui
+#### Exercise 1\: Getting familiar with some commands and the gui
 
 #### More motions
 

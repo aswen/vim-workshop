@@ -115,7 +115,7 @@ This slide is followed by a splash slide that you can bring to front to draw att
 
 #### Why Vim
 
-To give participants an idea of what they're going to learn and why Vim is still a cool editor after 35 years of development you let them count in their heads how much keystrokes it would take them in another editor (I allways use Notepad or, if the users really hate Windows Gedit for example) to make "This is another header" a header in this [simple markdown example](/README.md/#7-markdown.txt).
+To give participants an idea of what they're going to learn and why Vim is still a cool editor after 35 years of development you let them count in their heads how much keystrokes it would take them in another editor (I allways use Notepad or, if the users really hate Windows Gedit for example) to make "This is another header" a header in this [simple markdown example](/README.md/#7-markdowntxt).
 
 #### Learning is difficult
 
@@ -160,7 +160,8 @@ They were already mentioned. But it is good to explain hjkl again. And I explain
 
 #### Exercise 1: Getting familiar with some commands and the gui
 
-People are now listening to you for quite some time so it's time for their first steps. Let's summarize what we've learned so far. Let's see who knows the result of the commands on this slide.
+People are now listening to you for quite some time so it's time for their first steps. Let's summarize what we've learned so far. Let's see who knows the result of the commands on this slide.  
+Then, of course a coffee break would be nice to have.
 
 #### More motions
 
@@ -176,7 +177,7 @@ This is the most important part of the whole workshop: the power of combining op
 
 #### Exercise 2: Get used to motions and operators
 
-File: [1-lorem.txt](/README.md/#1-loremtxt)
+File: [1-lorem.txt](/README.md/#1-loremtxt)  
 Let's immediately try this. If they do exactly what's on the exercise slide participants run into a situation where they change not a real word but a comma. Results are not important here: just the feeling of 3j, c4w etc.
 
 #### Even more motions
@@ -189,7 +190,7 @@ And those can be combined with operators too.
 
 #### Exercise 3: Not so efficient editing
 
-File: [4-boilerplate.html](README/#4-boilerplatehtml)
+File: [4-boilerplate.html](README.md/#4-boilerplatehtml)  
 This is the first time to edit this file. People have to really dw and then retype (they don't know copy/paste yet).
 
 #### Searching
@@ -202,12 +203,12 @@ And how search can be combined with operators as well.
 
 #### Exercise 4: Slightly more efficient editing
 
-File: [4-boilerplate.html](README/#4-boilerplatehtml)
+File: [4-boilerplate.html](README.md/#4-boilerplatehtml)  
 This is the second time to edit this file. People should be able to move arround quicker now.
 
 #### Cut/Copy/Paste & Visual mode
 
-At this point people should be begging for copy/paste commands. The retyped navigation a million times now.
+At this point people should be begging for copy/paste commands. They retyped "navigation" a million times now.
 
 ##### Cut/Copy/Paste
 
@@ -230,7 +231,7 @@ After you've selected something you can also operate on it! great!
 
 #### Exercise 5: use visual mode to create a CSV file
 
-File: [6-digits.txt](README/#6-digitstxt)
+File: [6-digits.txt](README.md/#6-digitstxt)  
 This file will be used twice as well: this time participants may only use visual mode to achieve the goal: create a CSV file.  
 They should all ask if this can't be done using search and replace
 
@@ -240,7 +241,7 @@ Search/replace is a real powertool. Simple things can be done very quick. Especi
 
 #### Exercise 6: Use Search/Replace to create a CSV file
 
-File: [6-digits.txt](README/#6-digitstxt)
+File: [6-digits.txt](README.md/#6-digitstxt)  
 Let the participants use search/replace to change the file [6-digits.txt](/README.md/#6-digitstxt) to a CSV file (they may choose their own separator). The following three commands (after removing lines 1,3 and last) should be sufficient:
 ``` vim
 :%s/^| //
@@ -298,16 +299,16 @@ This sheet shows a bunch of usefull links.
 All images used in the Impress presentation are located in this folder. Below a list of them and where I found them:
 <table>
   <tr><td>Jimi-Hendrix.jpg</td><td><a href="http://images2.fanpop.com/images/photos/5000000/Jimi-Hendrix-jimi-hendrix-5029449-1024-768.jpg">fanpop.com</a></td></tr>
-  <tr><td>achtergrond blauw.jpg</td><td><a href="http://templates.libreoffice.org/template-center/typography">Typoography template</a>and kindly recreated by my colleague <a href="https://github.com/dreagle">Ronald van Zon</a></td></tr>
-  <tr><td>achtergrond blauw.png</td><td><a href="http://templates.libreoffice.org/template-center/typography">Typoography template</a>and kindly recreated by my colleague <a href="https://github.com/dreagle">Ronald van Zon</a></td></tr>
-  <tr><td>achtergrond groen.jpg</td><td><a href="http://templates.libreoffice.org/template-center/typography">Typoography template</a></td></tr>
+  <tr><td>achtergrond blauw.jpg</td><td><a href="http://templates.libreoffice.org/template-center/typography">Typoography template </a>and kindly recreated by my colleague <a href="https://github.com/dreagle">Ronald van Zon</a></td></tr>
+  <tr><td>achtergrond blauw.png</td><td><a href="http://templates.libreoffice.org/template-center/typography">Typoography template </a>and kindly recreated by my colleague <a href="https://github.com/dreagle">Ronald van Zon</a></td></tr>
+  <tr><td>achtergrond groen.jpg</td><td><a href="http://templates.libreoffice.org/template-center/typography">Typography template</a></td></tr>
   <tr><td>adm-3a-hjkl-keyboard.jpg</td><td><a href="http://www.catonmat.net/blog/why-vim-uses-hjkl-as-arrow-keys/">Catonmat.net</a></td></tr>
   <tr><td>demo1.avi</td><td><a href="https://github.com/aswen">Alexander Swen</a></td></tr>
   <tr><td>learning_curve-text-editors.jpg</td><td><a href="https://www.google.com/search?site=&tbm=isch&source=hp&biw=1148&bih=957&q=%22classical+learning+curves+for+some+common+editors%22&oq=%22classical+learning+curves+for+some+common+editors%22">Can't find origin</a></td></tr>
   <tr><td>Lear Siegler ADM-3A computer terminal.jpg</td><td><a href="http://www.catonmat.net/blog/why-vim-uses-hjkl-as-arrow-keys/">Catonmat.net</a></td></tr>
   <tr><td>repetitive tasks.png</td><td><a href="https://plus.google.com/+BrunoOliveira/posts/MGxauXypb1Y">Bruno Oliveira</a></td></tr>
   <tr><td>vim3d_the_editor.png</td><td><a href="http://www.ivankristianto.com/vi-and-vim-editor-cheat-sheet-pdf/">Ivan Kristianto</a></td></tr>
-  <tr><td>vim-bottom.jpg</td><td>Screenshot created by Alexander Swen</td></tr>
+  <tr><td>vim-bottom.jpg</td><td>Screenshot created by <a href="https://github.com/aswen">Alexander Swen</a></td></tr>
 </table>
 
 ### Files

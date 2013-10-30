@@ -67,11 +67,22 @@ We (that is Alexander Swen and [Joël Stemmer][Joel]) created this workshop to h
 
 ### Audience
 
+This workshop is originaly developped for our colleagues at Nedap. They're programmers and sysadmins. Some of them never touched Vim, others use it occasionaly and some are experienced Vim users. Afterwards some of them started using Vim instead of their other editor, others improved their skills and work more efficient now.
+This workshop is now intended for people who want to use Vim but fear the learning curve and for people who do simple things in Vim but want to benefit more from the powerful features Vim has to offer. However, everytime I gave this workshop there was some bloke that I would classify as "highly experienced". And even that kind of guys learned something new they said afterwards.
+
+The workshop gives a structured overview of modes, motions and operators in such a way that the audience has an understanding of the mass of commands they see when they open vim for the 1st time. (or actually they only see that once they found the help command ;-).
+
 ### License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Vim workshop</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/aswen/vim-workshop" property="cc:attributionName" rel="cc:attributionURL">Alexander Swen</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/nedap/vim-workshop" rel="dct:source">https://github.com/nedap/vim-workshop</a>. That was created by Alexander Swen & Joël Stemmer for Nedap N.V..
 
 ## This Repo
 
+Is created to easily distribute the example files and handouts of this workshop to the participants.
+
 ### Presentation
+
+The presentation is here to support the explanations about Vim. It has two different background colours: Blue for things the presenter has to tell and explain, green for exercises the participants need to do themselves.
 
 #### Preparation
 

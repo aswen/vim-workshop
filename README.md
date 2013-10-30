@@ -44,6 +44,7 @@
       4. [plugins](/README.md/#plugins)
     27. [Vim in other software](/README.md/#vim-in-other-software)
     28. [Credits and links](/README.md/#credits-and-links)
+    29. [Images](/README.md/#Images)
   2. [files](/README.md/#files)
     1. [1-lorem.txt](/README.md/#1-loremtxt)
     2. [2-lorem-wrapped.txt](/README.md/#2-lorem-wrappedtxt)
@@ -59,24 +60,25 @@
 
 ## Intro
 
-We (that is Alexander Swen and [Joël Stemmer][Joel]) created this workshop to help our coding colleagues at [Nedap][nedap] to become more productive using Vim. This repo contains my continuated version of the original work we did at Nedap. It's a fork of [Nedap's Vim workshop repo][nedap_vim_workshop].
+We (that is Alexander Swen and [Joël Stemmer][Joel]) created this workshop to help our coding colleagues at [Nedap][nedap] to become more productive using Vim. This repo contains my continuated version of the original work we did at Nedap. It's a fork of [Nedap's Vim workshop repo][nedap_vim_workshop].  
 It is my experience that it takes about three hours to give this workshop and I have good experiences with about 12 people in a classroom setting.
-You need every participant to have a workstation that has vim installed and a clone of this repo.
+You need every participant to have a workstation that has vim installed and a clone of this repo.  
+I bought a PDF version of the [Vim Cheat-sheet][cheat] by Max Cantor. I recommend all participants to buy one.
 
 [Joel]: https://github.com/jstemmer "Joël Stemmer"
 [nedap]: http://www.nedap.com/ "Nedap"
 [nedap_vim_workshop]: https://github.com/nedap/vim-workshop "Nedap's Vim workshop repo"
+[cheat]: http://vimcheatsheet.com "Vim cheat-sheet"
 
 ### Audience
 
-This workshop is originaly developped for our colleagues at Nedap. They're programmers and sysadmins. Some of them never touched Vim, others use it occasionaly and some are experienced Vim users. Afterwards some of them started using Vim instead of their other editor, others improved their skills and work more efficient now.
-This workshop is now intended for people who want to use Vim but fear the learning curve and for people who do simple things in Vim but want to benefit more from the powerful features Vim has to offer. However, everytime I gave this workshop there was some bloke that I would classify as "highly experienced". And even that kind of guys learned something new they said afterwards.
-
+This workshop is originaly developped for our colleagues at Nedap. They're programmers and sysadmins. Some of them never touched Vim, others use it occasionaly and some are experienced Vim users. Afterwards some of them started using Vim instead of their other editor, others improved their skills and work more efficient now.  
+This workshop is now intended for people who want to use Vim but fear the learning curve and for people who do simple things in Vim but want to benefit more from the powerful features Vim has to offer. However, everytime I gave this workshop there was some bloke that I would classify as "highly experienced". And even that kind of guys learned something new they said afterwards.  
 The workshop gives a structured overview of modes, motions and operators in such a way that the audience has an understanding of the mass of commands they see when they open vim for the 1st time. (or actually they only see that once they found the help command ;-).
 
 ## This Repo
 
-Is created to easily distribute the example files and handouts of this workshop to the participants.
+Is created to easily distribute the example files and handouts of this workshop to the participants. Now it holds everything related.
 
 ### Presentation
 
@@ -84,7 +86,13 @@ The presentation is here to support the explanations about Vim. It is created in
 
 #### Preparation
 
+This slide informs users where to find this repo and (a bit) how to install Vim on their computer. It promises an USB stick to be available when no interwebs is there. (I never solely rely on working interwebs on public events).  
+I recommend to start showing this sheet well in advance of the actual training if you have the chance to avoid very long delays when you want to start.  
+This slide is followed by a splash slide that you can bring to front to draw attention and make clear you wish to start.
+
 #### Why Vim
+
+To give participants an idea of what they're going to learn and why Vim is still a cool editor after 35 years of development you let them count in their heads how much keystrokes it would take them in another editor (I allways use Notepad or, if the users really hate Windows Gedit for example) to make "This is another header" a header in this [simple markdown example](/README.md/#7-markdown.txt).
 
 #### Learning is difficult
 
@@ -181,7 +189,24 @@ A short list of some other programs that support features from vim. The list is 
 
 This sheet shows a bunch of usefull links.
 
-### files
+#### Images
+
+All images used in the Impress presentation are located in this folder. Below a list of them and where I found them:
+<table>
+  <tr><td>Jimi-Hendrix.jpg</td><td><a href="http://images2.fanpop.com/images/photos/5000000/Jimi-Hendrix-jimi-hendrix-5029449-1024-768.jpg">fanpop.com</a></td></tr>
+  <tr><td>achtergrond blauw.jpg</td><td><a href="http://templates.libreoffice.org/template-center/typography">Typoography template</a>and kindly recreated by my colleague <a href="https://github.com/dreagle">Ronald van Zon</a></td></tr>
+  <tr><td>achtergrond blauw.png</td><td><a href="http://templates.libreoffice.org/template-center/typography">Typoography template</a>and kindly recreated by my colleague <a href="https://github.com/dreagle">Ronald van Zon</a></td></tr>
+  <tr><td>achtergrond groen.jpg</td><td><a href="http://templates.libreoffice.org/template-center/typography">Typoography template</a></td></tr>
+  <tr><td>adm-3a-hjkl-keyboard.jpg</td><td><a href="http://www.catonmat.net/blog/why-vim-uses-hjkl-as-arrow-keys/">Catonmat.net</a></td></tr>
+  <tr><td>demo1.avi</td><td><a href="https://github.com/aswen">Alexander Swen</a></td></tr>
+  <tr><td>learning_curve-text-editors.jpg</td><td><a href="https://www.google.com/search?site=&tbm=isch&source=hp&biw=1148&bih=957&q=%22classical+learning+curves+for+some+common+editors%22&oq=%22classical+learning+curves+for+some+common+editors%22">Can't find origin</a></td></tr>
+  <tr><td>Lear Siegler ADM-3A computer terminal.jpg</td><td><a href="http://www.catonmat.net/blog/why-vim-uses-hjkl-as-arrow-keys/">Catonmat.net</a></td></tr>
+  <tr><td>repetitive tasks.png</td><td><a href="https://plus.google.com/+BrunoOliveira/posts/MGxauXypb1Y">Bruno Oliveira</a></td></tr>
+  <tr><td>vim3d_the_editor.png</td><td><a href="http://www.ivankristianto.com/vi-and-vim-editor-cheat-sheet-pdf/">Ivan Kristianto</a></td></tr>
+  <tr><td>vim-bottom.jpg</td><td>Screenshot created by Alexander Swen</td></tr>
+</table>
+
+### Files
 
 The repo contains a bunch of examplefiles to let the participants play with during exercises. Most of them are found on internet and some are intentionally damaged.
 

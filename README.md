@@ -6,7 +6,7 @@
 
 1. [Intro](/README.md/#intro)
   1. [Audience](/README.md/#audience)
-2. [This Repo](/README.md/#this-Repo)
+2. [This Repo](/README.md/#this-repo)
   1. [Presentation](/README.md/#presentation)
     1. [Preparation](/README.md/#preparation)
     2. [Why Vim](/README.md/#why-vim)

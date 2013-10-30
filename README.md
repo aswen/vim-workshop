@@ -60,6 +60,8 @@
 ## Intro
 
 We (that is Alexander Swen and [Joël Stemmer][Joel]) created this workshop to help our coding colleagues at [Nedap][nedap] to become more productive using Vim. This repo contains my continuated version of the original work we did at Nedap. It's a fork of [Nedap's Vim workshop repo][nedap_vim_workshop].
+It is my experience that it takes about three hours to give this workshop and I have good experiences with about 12 people in a classroom setting.
+You need every participant to have a workstation that has vim installed and a clone of this repo.
 
 [Joel]: https://github.com/jstemmer "Joël Stemmer"
 [nedap]: http://www.nedap.com/ "Nedap"
@@ -74,7 +76,7 @@ The workshop gives a structured overview of modes, motions and operators in such
 
 ### License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Vim workshop</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/aswen/vim-workshop" property="cc:attributionName" rel="cc:attributionURL">Alexander Swen</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/nedap/vim-workshop" rel="dct:source">https://github.com/nedap/vim-workshop</a>. That was created by Alexander Swen & Joël Stemmer for Nedap N.V..
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Vim workshop</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/aswen/vim-workshop" property="cc:attributionName" rel="cc:attributionURL">Alexander Swen</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/nedap/vim-workshop" rel="dct:source">https://github.com/nedap/vim-workshop</a>. It was created by Alexander Swen & Joël Stemmer for Nedap N.V..
 
 ## This Repo
 
@@ -82,7 +84,7 @@ Is created to easily distribute the example files and handouts of this workshop 
 
 ### Presentation
 
-The presentation is here to support the explanations about Vim. It has two different background colours: Blue for things the presenter has to tell and explain, green for exercises the participants need to do themselves.
+The presentation is here to support the explanations about Vim. It is created in Libreoffice Impress and has two different background colours: Blue for things the presenter has to tell and explain, green for exercises the participants need to do themselves.
 
 #### Preparation
 

@@ -6,7 +6,6 @@
 
 1. [Intro](/README.md/#intro)
   1. [Audience](/README.md/#audience)
-  2. [License](/README.md/#license)
 2. [This Repo](/README.md/#this-Repo)
   1. [Presentation](/README.md/#presentation)
     1. [Preparation](/README.md/#preparation)
@@ -56,6 +55,7 @@
   3. [startvim](/README.md/#startvim)
   4. [vim-config](/README.md/#vim-config)
 3. [Request for feedback](/README.md/#request-for-feedback)
+4. [License](/README.md/#license)
 
 ## Intro
 
@@ -73,10 +73,6 @@ This workshop is originaly developped for our colleagues at Nedap. They're progr
 This workshop is now intended for people who want to use Vim but fear the learning curve and for people who do simple things in Vim but want to benefit more from the powerful features Vim has to offer. However, everytime I gave this workshop there was some bloke that I would classify as "highly experienced". And even that kind of guys learned something new they said afterwards.
 
 The workshop gives a structured overview of modes, motions and operators in such a way that the audience has an understanding of the mass of commands they see when they open vim for the 1st time. (or actually they only see that once they found the help command ;-).
-
-### License
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Vim workshop</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/aswen/vim-workshop" property="cc:attributionName" rel="cc:attributionURL">Alexander Swen</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/nedap/vim-workshop" rel="dct:source">https://github.com/nedap/vim-workshop</a>. It was created by Alexander Swen & Joël Stemmer for Nedap N.V..
 
 ## This Repo
 
@@ -247,3 +243,7 @@ We created a config that has some usefull default settings. This is to make sure
 I would highly appreciate feedback on this workshop. Especially if you attended one of my workshops I like to improve both this workshop and my training skillz. You can contact me via [Mail][mailme].
 
 [mailme]: mailto:vim@swen.nu "my mailaddress"
+
+### License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Vim workshop</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/aswen/vim-workshop" property="cc:attributionName" rel="cc:attributionURL">Alexander Swen</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/nedap/vim-workshop" rel="dct:source">https://github.com/nedap/vim-workshop</a>. It was created by Alexander Swen & Joël Stemmer for Nedap N.V..

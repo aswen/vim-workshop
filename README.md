@@ -91,7 +91,7 @@ To succesfully train people using Vim you need the following:
 - A classroom style presentation room, with:
   + Enough tables and seats for the participants
   + Beamer
-- A computer (preferably a laptop) to run the Libreoffice Impress presentation on.
+- A computer (preferably a laptop) to run the LibreOffice Impress presentation on.
 - I like to use a [Presenter][presenter] to switch slides. This allows me to walk arround the classroom.
 
 ## This Repo
@@ -101,7 +101,7 @@ Is created to easily distribute the example files and handouts of this workshop 
 ### Presentation
 
 File called presentation/vim.odp.
-The presentation is here to support the explanations about Vim. It is created in Libreoffice Impress and has two different background colours: Blue for things the presenter has to tell and explain, green for exercises the participants need to do themselves.
+The presentation is here to support the explanations about Vim. It is created in LibreOffice Impress and has two different background colours: Blue for things the presenter has to tell and explain, green for exercises the participants need to do themselves.
 Exercises contain a few tasks and a reference of what I explained before.
 
 #### Preparation
@@ -158,7 +158,7 @@ Then, of course a coffee break would be nice to have.
 
 #### More motions
 
-three slides with more motions. I walk through most of them. The first one has a nice revelation for those who know about regex: some motions are similar to regular expressions. (at least 0 ^ $ are)
+Three slides with more motions. I walk through most of them. The first one has a nice revelation for those who know about regex: some motions are similar to regular expressions. (at least 0 ^ $ are). Halfway zz reads "Center view on current {object}". This should be explained: "This actually means: redisplay the current line on center of current screen. The current window doesn't have to be covering the screen."
 
 #### Operators
 

@@ -3,12 +3,15 @@
 me=$(basename $0)
 mydir=$(dirname $0)
 
+vim_location=`which vim`
 mvim_location=`which mvim`
 gvim_location=`which gvim`
 if [ -n "$mvim_location" ]; then
   vim=$mvim_location
 elif [ -n "$gvim_location" ]; then
   vim=$gvim_location
+elif [ -n "$vim_location" ]; then
+  vim=$vim_location
 fi
 
 if [ -z "$vim" ];then

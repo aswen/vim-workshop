@@ -74,7 +74,7 @@ I bought a PDF version of the [Vim Cheat-sheet][cheat] by Max Cantor. I recommen
 
 ### Audience
 
-This workshop is originaly developped for our colleagues at Nedap. They're programmers and sysadmins. Some of them never touched Vim, others use it occasionaly and some are experienced Vim users. Afterwards some of them started using Vim instead of their other editor, others improved their skills and work more efficient now.
+This workshop is originaly developed for our colleagues at Nedap. They're programmers and sysadmins. Some of them never touched Vim, others use it occasionaly and some are experienced Vim users. Afterwards some of them started using Vim instead of their other editor, others improved their skills and work more efficient now.
 This workshop is now intended for people who want to use Vim but fear the learning curve and for people who do simple things in Vim but want to benefit more from the powerful features Vim has to offer. However, everytime I gave this workshop there was some bloke that I would classify as "highly experienced". And even that kind of guys learned something new they said afterwards.
 The workshop gives a structured overview of modes, motions and operators in such a way that the audience has an understanding of the mass of commands they see when they open vim for the 1st time. (or actually they only see that once they found the help command ;-).
 
@@ -136,7 +136,7 @@ Then the "don't panic" slide is here to show the commands I mention and first gl
 
 #### Modes
 
-Then we start talking about modes. Vim is the only editor I'm aware of that's defaulting to insert mode, moreover: I don't know any editor that has any other mode than "insertmode".
+Then we start talking about modes. Vim is the only editor I'm aware of that's defaulting to command mode, moreover: I don't know any editor that has any other mode than "insertmode".
 The most of our work is not keying in text, it's more about "changing text". And that should be done using the whole bunch of nifty commands Vim has to offer.
 The first sheet explains the functions of the several modes and the second tells some ways of switching between them.
 
@@ -205,7 +205,7 @@ At this point people should be begging for copy/paste commands. They retyped "na
 
 ##### Cut/Copy/Paste
 
-Immediately tell yw to show that also yank can be combined with a motion. And tell the rest. pay some atention to yy. They all should note the similarity with cc/dd now. Then tell them that with this knowledge the previous two exercises would have been way easier.
+Immediately explain yw to show that also yank can be combined with a motion. And tell the rest. pay some atention to yy. They all should note the similarity with cc/dd now. Then tell them that with this knowledge the previous two exercises would have been way easier.
 
 ##### Visual mode
 
@@ -214,11 +214,11 @@ A nice example to show "select all": ggVG
 
 ##### Visual mode + motions
 
-Visual mode can't realy exist without motions.
+Visual mode can't really exist without motions.
 
 ##### Visual mode + operators
 
-After you've selected something you can also operate on it! great!
+After you've selected something you can also operate on it! Great!
 
 #### Exercise 5: use visual mode to create a CSV file
 
@@ -247,7 +247,7 @@ Then, just for fun, show the power of search and replace by using:
 
 #### Text objects
 
-Shows some basic text objects. Tell something about inner and arround.
+Shows some basic text objects. Tell something about inner and around.
 
 #### More text objects
 
@@ -259,7 +259,7 @@ Explains the power of combining operators and text objects. Some examples are sh
 
 #### If there's time left
 
-4 bonus subjects. Only to be discussed when the clock and the audience's attention allow for it (the participants are learning stuff for quite a while at this point and I can imagine they loose interest and attention).
+4 bonus subjects. Only to be discussed when the clock and the audience's attention allow for it (the participants are learning stuff for quite a while at this point and I can imagine they lose interest and attention).
 
 ##### vimrc
 
@@ -267,15 +267,15 @@ An explanation of the vimrc config file and how one can try his modifications wh
 
 ##### buffers
 
-A little explanation on vim buffers is usefull. This subject is covered more deeply in the (yet to be created) advanced workshop.
+A little explanation on vim buffers is useful. This subject is covered more thoroughly in the (yet to be created) advanced workshop.
 
 ##### windows
 
-A little explanation on vim splits is usefull. This subject is covered more deeply in the (yet to be created) advanced workshop.
+A little explanation on vim splits is useful. This subject is covered more thoroughly in the (yet to be created) advanced workshop.
 
 ##### plugins
 
-A little explanation on vim plugins is usefull. This subject is covered more deeply in the (yet to be created) advanced workshop.
+A little explanation on vim plugins is useful. This subject is covered more thoroughly in the (yet to be created) advanced workshop.
 
 #### Vim in other software
 
@@ -283,7 +283,7 @@ A short list of some other programs that support features from vim. The list is 
 
 #### Credits and links
 
-This sheet shows a bunch of usefull links.
+This sheet shows a bunch of useful links.
 
 #### Images
 
@@ -304,7 +304,7 @@ All images used in the Impress presentation are located in this folder. Below a 
 
 ### Files
 
-The repo contains a bunch of examplefiles to let the participants play with during exercises. Most of them are found on internet and some are intentionally damaged.
+The repo contains a bunch of example files to let the participants play with during exercises. Most of them are found on internet and some are intentionally damaged.
 
 #### 1-lorem.txt
 
@@ -318,7 +318,7 @@ This file was found on [nl.lipsum.com][lipsum].
 
 #### 3-sinatra.rb
 
-File currently not used. Might be usefull in future.
+File currently not used. Might be useful in future.
 This file was found on [Sinatrarb.com][sinatra_origin].
 
 #### 4-boilerplate.html
@@ -347,7 +347,7 @@ This script can be improved to work better on macs as on some of them there has 
 
 ### vim-config
 
-We created a config that has some usefull default settings. This is to make sure that everyone participating in the workshop has the same settings and to avoid strange behaviour because of peoples own settings. I strongly recommend to encourage the use of this config during the workshop, even for experienced users.
+We created a config that has some useful default settings. This is to make sure that everyone participating in the workshop has the same settings and to avoid strange behaviour because of peoples own settings. I strongly recommend to encourage the use of this config during the workshop, even for experienced users.
 
 ## Request for feedback
 
